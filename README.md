@@ -1,5 +1,5 @@
 # TEXT-MINING-Company_Analysis
-This project uses traditional NLP to analyze raw text, which in this dataset are employee reviews on top six tech companies:
+This project uses traditional NLP to analyze raw text, which in this dataset are employee reviews on the top six tech companies:
 
   * Google
   * Amazon
@@ -8,6 +8,6 @@ This project uses traditional NLP to analyze raw text, which in this dataset are
   * Apple
   * Microsoft
   
-(The reviews were taken from Glassdoor)
+**(The reviews were taken from Glassdoor)**
 
 
