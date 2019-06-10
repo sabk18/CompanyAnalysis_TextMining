@@ -1,9 +1,13 @@
-# company-analysis
-Text mining performed from reviews on top tech companies. The reviews were taken from Glassdoor.
+# TEXT-MINING-Company_Analysis
+This project uses traditional NLP to analyze raw text, which in this dataset are employee reviews on top six tech companies:
 
-**hi**
+  * Google
+  * Amazon
+  * Facebook
+  * Netflx
+  * Apple
+  * Microsoft
+  
+(The reviews were taken from Glassdoor)
 
-```
-import pandas as pd
 
-```
