@@ -1,4 +1,4 @@
-# TEXT-MINING-Company_Analysis
+# Company_Analysis_NLP
 
 ## Introduction
 
@@ -48,7 +48,9 @@ For each pos/con review within a list:
 To visualize my analysis I used matplotlib and Seaborn to visualize my charts. 
 Wordclouds were also generated for are cleaned bag of words and Bigramms.
 
+## Results
 
+For my project, I analyzed the relationship between employee satisfaction and the Company's Work/Life balance, Culture, Career Opportunities, Benefits, and Senior Management. My analysis helped my colleagues (classmates and professors) understand the different dynamics at play when selecting a company for employment. I concluded that Amazon guaranteed a higher employee satisfaction rate because of certain factors as compared to its competitors where these factors needed improvement.
 
 
 
